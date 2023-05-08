@@ -3,10 +3,11 @@ import HeaderComponent from './components/HeaderComponent';
 import CarouselComponent from './components/CarouselComponent';
 import AboutMeComponent from './components/AboutMeComponent';
 import ExperienceComponent from './components/ExperienceComponent';
+import FavTechComponent from './components/FavTechComponent';
 
 function App() {
   return (
-    <div>
+    <div className='bg-gradient-to-r from-cyan-200 to-blue-500 ...'>
       <HeaderComponent/>
 
       <br/>
@@ -30,6 +31,12 @@ function App() {
       <br/>
 
       <ExperienceComponent/>
+
+      <br/>
+      <hr/>
+      <br/>
+
+      <FavTechComponent/>
     </div>
   );
 }
