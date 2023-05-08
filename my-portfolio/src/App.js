@@ -2,7 +2,7 @@ import './App.css';
 import HeaderComponent from './components/HeaderComponent';
 import CarouselComponent from './components/CarouselComponent';
 import AboutMeComponent from './components/AboutMeComponent';
-import TechnologiesComponent from './components/TechnologiesComponent';
+import ExperienceComponent from './components/ExperienceComponent';
 
 function App() {
   return (
@@ -29,7 +29,7 @@ function App() {
       <hr/>
       <br/>
 
-      <TechnologiesComponent/>
+      <ExperienceComponent/>
     </div>
   );
 }
