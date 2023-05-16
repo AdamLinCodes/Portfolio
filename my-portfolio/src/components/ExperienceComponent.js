@@ -14,20 +14,24 @@ export default function ExperienceComponent() {
         <div>
           <h5 className="text-xl font-bold tracking-tight text-gray-900 dark:text-white">Software Developer Intern Lume</h5>
           <p className="font-normal text-gray-700 dark:text-gray-400">
-            <a href='https://mylume.ca/'>Lume</a> is a Ed-tech start-up, whose purpose is to connect tutors, to students and vise-versa. My role, 
-            in this start up is primarily as a front-end developer, but also encompasses design, creating stories, sprint planning, and just general
+            <a href='https://mylume.ca/'>Lume</a> is a Ed-tech start-up, whose purpose is to connect tutors to students and vise-versa. My role, 
+            in this start-up is primarily as a front-end developer, but also encompasses design, creating stories, sprint planning, and general
             software infrastructure.
           </p>
           <br/>
           <div className="font-normal text-gray-700 dark:text-gray-400">
             <ul className='list-disc list-inside'>
               <li>AWS</li>
-              <li>React.js</li>
+              <li>Next.js</li>
+              <li>React</li>
+              <li>Typescript</li>
+              <li>Javasciprt</li>
+              <li>Python</li>
               <li>Tailwind</li>
               <li>Creating stories</li>
               <li>Contributing to design figmas and other diagrams</li>
-              <li>Participate in tech discussions</li>
-              <li>Utilize git development features: Projects, issues, milestones, labels</li>
+              <li>Lead or participate in tech discussions</li>
+              <li>Utilize GitHub development features: Projects, issues, milestones, labels</li>
             </ul>
           </div>
         </div>
@@ -40,7 +44,7 @@ export default function ExperienceComponent() {
           <h5 className="text-xl font-bold tracking-tight text-gray-900 dark:text-white">Full-stack Engineer Intern at Level Access</h5>
           <p className="font-normal text-gray-700 dark:text-gray-400">
             <a href='https://www.levelaccess.com/'>Level Access</a>, at the time eSSENTIAL Accessibility, is a tech accessibility company. My role required me to work on their 
-            main application, which could scan websites and give them a scoring, and detailed feedback on how, and where their website
+            main application, which could scan websites and give them a scoring, as well as detailed feedback on how/where their system
             was failing to meet WCAG and a11y (among others) rules.
           </p>
           <br/>
@@ -66,8 +70,8 @@ export default function ExperienceComponent() {
         <div>
           <h5 className="text-xl font-bold tracking-tight text-gray-900 dark:text-white">Teaching Programming</h5>
           <p className="font-normal text-gray-700 dark:text-gray-400">
-            Throughout my undergrad, and before I began working as a Software Developer I took a several jobs teaching programming.
-            I've taught with pre-set curriculums, and I've also taught with material I've made myself.
+            Throughout my undergrad, before I began focussing on software development, I took a several jobs teaching programming.
+            I've taught with company-specific curriculums, and I've also taught with material I've made myself.
           </p>
           <br/>
           <div className="font-normal text-gray-700 dark:text-gray-400">
@@ -90,20 +94,20 @@ export default function ExperienceComponent() {
         <div>
           <h5 className="text-xl font-bold tracking-tight text-gray-900 dark:text-white">University</h5>
           <p className="font-normal text-gray-700 dark:text-gray-400">
-            I was accepted to Carleton University in my senior year of highschool, and was awarded two scholarships from them, an Entrance scholarship,
+            I was accepted to Carleton University in my senior year of highschool, and was awarded two scholarships, an Entrance scholarship,
             and the Computer Science Excellence scholarship. Below are just some of the most relevant topics I've studied throughout my degree:
           </p>
           <br/>
           <div className="font-normal text-gray-700 dark:text-gray-400">
             <ul className='list-disc list-inside'>
-              <li>OOP design patters</li>
+              <li>OOP design patterns</li>
               <li>Web development</li>
               <li>Software development (Agile, traceability, UML, etc)</li>
               <li>Operating systems and lower level languages</li>
-              <li>Abstract Data structures</li>
+              <li>Abstract data-type and algorithms</li>
               <li>Functional programming in Haskell</li>
               <li>Logical programming in Prolog</li>
-              <li>Good UI/UX development</li>
+              <li>Proper UI/UX development</li>
             </ul> 
           </div>
         </div>
@@ -115,16 +119,17 @@ export default function ExperienceComponent() {
         <div>
           <h5 className="text-xl font-bold tracking-tight text-gray-900 dark:text-white">Highschool</h5>
           <p className="font-normal text-gray-700 dark:text-gray-400">
-            I first started programming in my highschool's Intro to CS class. Ever since my first python HelloWorld program,
-            I've always had an inclination towards programming. Throuhout my time, in highschool, these were my most notable 
+            I first started programming in my highschool's intro to CS class. Ever since my first python HelloWorld program,
+            I've had a passion (obsession) towards programming. Throughout my time, in highschool, these were my most notable 
             experiences:
           </p>
           <br/>
           <div className="font-normal text-gray-700 dark:text-gray-400">
             <ul className='list-disc list-inside'>
-              <li>Python3, Java, RobotC, VEXCode, Processing.py, Processing.java</li>
+              <li>Python3, Java, RobotC, VEXCode, Processing.py, Processing.java, Arduino</li>
               <li>VEX Robotics Driver and Head Builder, VEX World's Robotics Qualifier</li>
-              <li>Learned about OOP design concepts including (but not limitted to) Abstraction, Encapsulation, Inheritance and Polymorphism</li>
+              <li>OOP design concepts including (but not limitted to) Abstraction, Encapsulation, Inheritance and Polymorphism</li>
+              <li>Co-founded Software Development Club</li>
             </ul>
           </div>
         </div>
